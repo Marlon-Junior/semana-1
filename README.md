@@ -2,29 +2,32 @@
 
 ## Desafios realizados:
 
-### 1. Calculadora de 100 anos
+### 1. Calculadora de 100 anos  
 O usuário informa seu nome e idade, e o programa calcula em qual ano ele completará 100 anos.
 
-### 2. Verificador de direito ao voto
+### 2. Verificador de direito ao voto  
 O programa solicita o nome e a idade do usuário e, com base na idade, informa se ele pode votar, se o voto é opcional ou obrigatório.
+
+### 3. Idade no futuro  
+O programa pergunta quantos anos no futuro o usuário deseja calcular, e informa quantos anos ele terá nesse ano, com validação de nome, idade e valor positivo.
 
 ---
 
 ## Aprendizados da semana:
 
-- Leitura de dados com `input()` e exibição com `print()`
-- Conversão de tipos (`str` para `int` e vice-versa)
-- Importação e uso de módulos (`datetime`)
-- Condicionais (`if`, `elif`, `else`)
-- Tratamento de exceções com `try/except`
-- Estrutura de repetição com `while`
+- Leitura de dados com `input()` e exibição com `print()`  
+- Conversão de tipos (`str` para `int` e vice-versa)  
+- Importação e uso de módulos (`datetime`)  
+- Condicionais com `if`, `elif`, `else`  
+- Tratamento de exceções com `try/except`  
+- Estrutura de repetição com `while`  
 - Limpeza e validação de strings com `.strip()`, `.replace()` e `.isalpha()`
 
 ---
 
 ## Destaque da semana:
 
-### Validação de nomes:
+### Validação de nomes  
 Aprendi a validar nomes compostos e impedir números na entrada, usando:
 
 ```python
@@ -34,3 +37,4 @@ while True:
         break
     else:
         print("Nome inválido. Use apenas letras.")
+```
