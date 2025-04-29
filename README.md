@@ -31,9 +31,6 @@ O usuário informa seu nome, altura (em metros) e peso (em kg). O programa valid
 
 ## Destaque da semana:
 
-### Cálculo de IMC
-Também desenvolvi minha primeira calculadora com operações matemáticas simples e validações completas, consolidando o que aprendi até aqui.
-
 ### Validação de nomes  
 Aprendi a validar nomes compostos e impedir números na entrada, usando:
 
@@ -44,3 +41,7 @@ while True:
         break
     else:
         print("Nome inválido. Use apenas letras.")
+```
+
+### Cálculo de IMC
+Também desenvolvi minha primeira calculadora com operações matemáticas simples e validações completas, consolidando o que aprendi até aqui.
