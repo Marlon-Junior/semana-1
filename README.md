@@ -31,12 +31,11 @@ O usuário informa seu nome, altura (em metros) e peso (em kg). O programa valid
 
 ## Destaque da semana:
 
-### Validação de nomes  
-Aprendi a validar nomes compostos e impedir números na entrada, usando:
-
-
 ### Cálculo de IMC
 Também desenvolvi minha primeira calculadora com operações matemáticas simples e validações completas, consolidando o que aprendi até aqui.
+
+### Validação de nomes  
+Aprendi a validar nomes compostos e impedir números na entrada, usando:
 
 ```python
 while True:
